@@ -1,0 +1,13 @@
+Aulas Prof. José de Assis
+2º Vídeo 
+-Configurar usúario "git config --global user.name "Kiko Pavan"
+-Configurar email   "git config --global user.email "kikopavan@hotmail.com"
+-Configurar editor  "git config --global core.editor "caminho do editor"
+-criar um arquivo "touch exemplo.txt"  
+
+3º Vídeo Comandos Básicos
+-Criar um repositorio local "git init"
+-vereficar o estado do Conteiner "git status"
+-adcionar o arquivos ao Conteiner "git add *"
+-fazer commit "git commit -m "comentário"
+-Gerenciar o Projeto "git log"

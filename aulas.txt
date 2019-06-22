@@ -27,3 +27,10 @@ Fazer alterações no repositório
 Confirmar as mudanças e enviar para o “HEAD”
 - Comando “git commit -m “aprendendo efetuar mudanças e confirmar para a versão Master”
 
+Rastreando as mudanças e recuperar uma versão anterior.
+ Devemos apontar para o respectivo commit
+- Comando “git checkout <versão>”
+Para ver a versão desanexada do HEAD
+- Comando “git branch”
+ Para retornar ao último commit
+- Comando “git checkout master”

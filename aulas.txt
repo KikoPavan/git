@@ -34,3 +34,10 @@ Para ver a versão desanexada do HEAD
 - Comando “git branch”
  Para retornar ao último commit
 - Comando “git checkout master”
+
+Para visualizar as mudanças antes do commit
+- Comando “git diff”
+Para saber o status e visualizar se confirma as mudanças ou retorna.
+- Comando “git status”
+- O comando para confirmar as mudanças “git add <nome do arquivo>”
+- Comando para descartar as mudanças “git checkout < nome do arquivo>” 

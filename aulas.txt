@@ -1,16 +1,26 @@
-Aulas Prof. José de Assis
+Curso prático GIT e GITHUB
 
-Configurando o Git
--Configurar usuário "git config --global user.name "Kiko Pavan"
--Configurar email   "git config --global user.email "kikopavan@hotmail.com"
--Configurar editor “git config --global core.editor "caminho do editor"
+Professor José de Assis
+Curso composto por 13 vídeos aulas com duração total 00:00 
+Iniciado no dia 14 de junho de 2019
 
+1 - 📂 Curso GIT e GITHUB - Introdução
+Duração 4:20
+Aula explicativa sobre a aplicabilidade da ferramenta 
+2 - 📂 Curso GIT e GITHUB - Como instalar e configurar o GIT no Windows
+Duração 10:27
+Configuração de usuário, email e do editor.
 FLUXO DE TRABALHO
 Seus repositórios locais consistem em três "árvores" mantidas pelo git. 
 A primeira delas é sua Working Directory que contém os arquivos vigentes. 
 A segunda Index que funciona como uma área temporária.
 E finalmente a HEAD que aponta para o último commit (confirmação) que você fez.
- 
+Configurando o Git
+-Configurar usuário "git config --global user.name "Kiko Pavan"
+-Configurar email   "git config --global user.email "kikopavan@hotmail.com"
+-Configurar editor “git config --global core.editor "caminho do editor"
+3 - 📂 Curso GIT e GITHUB - Comandos básicos
+Duração 12:09
 Criando repositório local 
 - Criar um repositório local "git init"
 - Verificar o estado do Container "git status"
@@ -18,26 +28,33 @@ Criando repositório local
 - Adicionar o arquivo ou os arquivos ao container “git add exemplo.txt” todos “git add *”
 - Verifica o container “git status” e envia para o repositório identificando a operação,
   com o comentário "git commit -m “comentário entre aspas”
-
+- Comando para adicionar mudança de vários arquivos “git add *”
+4 – 📂 Curso GIT e GITHUB - Versionar, rastrear e recuperar versões anteriores do projeto
+Duração 17:34 
 Fazer alterações no repositório
  Efetuar mudanças e adicioná-las ao “INDEX”
 - Comando para adicionar uma alteração especifica “git add <arquivo>
-- Comando para adicionar mudança de vários arquivos “git add *”
-
 Confirmar as mudanças e enviar para o “HEAD”
 - Comando “git commit -m “aprendendo efetuar mudanças e confirmar para a versão Master”
+Fazer alterações no repositório
+ Efetuar mudanças e adicioná-las ao “INDEX”
+- Comando para adicionar uma alteração especifica “git add <arquivo>
+5 - 📂 Curso GIT e GITHUB - Criando ramificações do projeto
+Duração 13:58
+6 - 📂 Curso GIT e GITHUB - Enviando um projeto local para o GITHUB
+Duração 7:00
+7 - 📂 Curso GIT e GITHUB - Como criar um repositório no GITHUB e clonar no Windows
+Duração 10:39
+8 - 📂 Curso GIT e GITHUB - Criar e editar arquivos e pastas direto no GITHUB - sincronizando alterações
+Duração 6:02
+9 - 📂 Curso GIT e GITHUB - Trabalhando um projeto em vários repositórios locais - Resolvendo conflitos
+Duração 15:19
+10 - 📂 Curso GIT e GITHUB - Usando o GITHUB como portfólio e currículo
+Duração 11:21
+11 - 📂 Curso GIT e GITHUB - Instalando e configurando o GIT no Linux - Clonando repositórios GITHUB
+Duração 12:39
+12 - 📂 Curso GIT e GITHUB - Integrando o GITHUB com a IDE Eclipse
+Duração 10:24
+13 - 📂 Curso GIT e GITHUB - Como hospedar um site GRÁTIS na plataforma GITHUB
+Duração 6:16
 
-Rastreando as mudanças e recuperar uma versão anterior.
- Devemos apontar para o respectivo commit
-- Comando “git checkout <versão>”
-Para ver a versão desanexada do HEAD
-- Comando “git branch”
- Para retornar ao último commit
-- Comando “git checkout master”
-
-Para visualizar as mudanças antes do commit
-- Comando “git diff”
-Para saber o status e visualizar se confirma as mudanças ou retorna.
-- Comando “git status”
-- O comando para confirmar as mudanças “git add <nome do arquivo>”
-- Comando para descartar as mudanças “git checkout < nome do arquivo>” 

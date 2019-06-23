@@ -39,6 +39,9 @@ Confirmar as mudanças e enviar para o “HEAD”
 Fazer alterações no repositório
  Efetuar mudanças e adicioná-las ao “INDEX”
 - Comando para adicionar uma alteração especifica “git add <arquivo>
+# Revisão de aula os Comandos para remover e recuperar commit
+Para remover um commit 
+- Comando "git reset --hard <o commit>
 5 - 📂 Curso GIT e GITHUB - Criando ramificações do projeto
 Duração 13:58
 6 - 📂 Curso GIT e GITHUB - Enviando um projeto local para o GITHUB

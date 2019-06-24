@@ -53,6 +53,10 @@ aprender a fazer uma fusão da ramificação que criamos e obter uma unica ramif
 - Solucionar problemas de conflitos, determinando se aceita as alterações ou desfaz.
 6 - 📂 Curso GIT e GITHUB - Enviando um projeto local para o GITHUB
 Duração 7:00
+Iniciando a sexta aula, 24/06/2019:19:30
+Aprender fazer um repositório remoto e clonar o repositório local.
+- Comando para saber se existe um repositório remoto “git remote”
+Conclui a aula as 19:58 
 7 - 📂 Curso GIT e GITHUB - Como criar um repositório no GITHUB e clonar no Windows
 Duração 10:39
 8 - 📂 Curso GIT e GITHUB - Criar e editar arquivos e pastas direto no GITHUB - sincronizando alterações

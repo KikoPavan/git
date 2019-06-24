@@ -48,6 +48,9 @@ Nesta aula vamos aprender a criar uma ramificação do projeto e
 aprender a fazer uma fusão da ramificação que criamos e obter uma unica ramificação estavel do projeto.
 - Comando para saber o ramo Master "git branch"
 - Comando para criar um novo ramo "git checkuot -b <nome do novo ramo>
+- Comando para fazer a fusão do novo ramo para o ramo Master, primeira precisa certificar de estar no ramo Master para fazer a fusão “git branch”
+- Fazer a fusão “git merge <nome do ramo>
+- Solucionar problemas de conflitos, determinando se aceita as alterações ou desfaz.
 6 - 📂 Curso GIT e GITHUB - Enviando um projeto local para o GITHUB
 Duração 7:00
 7 - 📂 Curso GIT e GITHUB - Como criar um repositório no GITHUB e clonar no Windows

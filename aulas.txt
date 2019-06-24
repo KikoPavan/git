@@ -43,7 +43,11 @@ Fazer alterações no repositório
 Para remover um commit 
 - Comando "git reset --hard <o commit>
 5 - 📂 Curso GIT e GITHUB - Criando ramificações do projeto
-Duração 13:58
+Duração 13:58 (inicio desta aula dia 24.06.2019:06:33)
+Nesta aula vamos aprender a criar uma ramificação do projeto e 
+aprender a fazer uma fusão da ramificação que criamos e obter uma unica ramificação estavel do projeto.
+- Comando para saber o ramo Master "git branch"
+- Comando para criar um novo ramo "git checkuot -b <nome do novo ramo>
 6 - 📂 Curso GIT e GITHUB - Enviando um projeto local para o GITHUB
 Duração 7:00
 7 - 📂 Curso GIT e GITHUB - Como criar um repositório no GITHUB e clonar no Windows

@@ -59,6 +59,7 @@ Aprender fazer um repositório remoto e clonar o repositório local.
 Conclui a aula as 19:58 
 7 - 📂 Curso GIT e GITHUB - Como criar um repositório no GITHUB e clonar no Windows
 Duração 10:39
+Aula concluida 24/06/2019
 8 - 📂 Curso GIT e GITHUB - Criar e editar arquivos e pastas direto no GITHUB - sincronizando alterações
 Duração 6:02
 9 - 📂 Curso GIT e GITHUB - Trabalhando um projeto em vários repositórios locais - Resolvendo conflitos
